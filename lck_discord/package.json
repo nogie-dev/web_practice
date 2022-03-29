@@ -1,0 +1,26 @@
+{
+  "name": "toy",
+  "version": "1.0.0",
+  "description": "it just toy pj",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nogy1op/LCK_BOT.git"
+  },
+  "author": "nogie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nogy1op/LCK_BOT/issues"
+  },
+  "homepage": "https://github.com/nogy1op/LCK_BOT#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "discord": "^0.8.2",
+    "discord.js": "^13.6.0",
+    "node-cron": "^3.0.0",
+    "request": "^2.88.2"
+  }
+}
